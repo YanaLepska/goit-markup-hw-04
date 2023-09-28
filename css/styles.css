@@ -93,7 +93,7 @@ img {
 }
 
 .item-nav {
-  color: #2e2f42;
+  color: #404bbf;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
@@ -133,13 +133,13 @@ img {
   bottom: -1px;
   border-radius: 2px;
   position: absolute;
-  background-color: transparent;
-}
-
-.item-nav:hover::after,
-.item-nav:focus::after {
   background-color: #404bbf;
 }
+
+/* .item-nav:hover::after,
+.item-nav:focus::after {
+  background-color: #404bbf;
+} */
 
 /* ======== HERO ======== */
 
